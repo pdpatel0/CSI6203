@@ -1,0 +1,1 @@
+../week7/shortertria.sh | grep "[0-9]\{2,10\}."$

@@ -1,0 +1,5 @@
+    \033[31mERROR:\033[0m $1
+this is the start of the script
+Thank you!
+Thank you!
+    \033[31mERROR:\033[0m $1
